@@ -22,9 +22,10 @@ The purpose of  this project is to provide data analysis on the Kickstarter. Thr
 
 ### Challenges and Difficulties Encountered 
 * In order to effectivly analyze the data, sorting, organization, and calcualtions were required to identify the overall trends of Kickstarters form 2009 to 2017.
+* Choosing the correct filters to accuratly display the data through the pivot table.
 * 
 ## Results
-* Based upon the Launch date 
+* Based upon the Launch date the most optimal time to start the Kickstarter is in May. The data shows the highest number of launched sucessful kickstarters in that month. The least optimal time is in October. The data showes the highest number of launched failed Kickstarters in that month.
 * From the outcomes based on goals we can conclude that a targeted funding less than $5,000 is mostlikely to be sucessful.
 * Some limitations of this data set include the small sample size for monetary goals between $30,000 to $50,000. This can skew the visual representation of the data in "Outcomes Based on Goals" graph.
 * An alternative table and/or graph that can be created is a table that compares the different Kickstart categories and the overall sucess in order to determine which category is the mostlikey to suceed. Another graph
