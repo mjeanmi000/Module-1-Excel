@@ -7,7 +7,9 @@ Purpose
 The purpose of  this project is to provide data analysis on Kickstarter. Through our assessment we can determine the best possible start date and appropriate funding for success.
 
 Analysis and Challenges
-https://github.com/mjeanmi000/Module-1-Excel/blob/main/Module%201-Analysis/Resources/Theater_Outcomes_vs_Launch.png
+![](https://github.com/mjeanmi000/Module-1-Excel/blob/main/Module%201-Analysis/Resources/Theater_Outcomes_vs_Launch.png)
+
+![](https://github.com/mjeanmi000/Module-1-Excel/blob/main/Module%201-Analysis/Resources/Outcomes_vs_Goals.png)
 
 
 Challenges and Difficulties Encountered 
